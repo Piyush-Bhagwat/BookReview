@@ -37,7 +37,7 @@ A full-stack MERN-based application where users can browse books, read and write
 ---
 
 ## 📁 Project Structure
-
+```
 book-review-platform/
 ├── client/ # React frontend
 │ └── src/
@@ -52,7 +52,7 @@ book-review-platform/
 │ ├── middleware/
 │ └── server.js
 └── README.md
-
+```
 ---
 
 ## ⚙️ Setup Instructions
