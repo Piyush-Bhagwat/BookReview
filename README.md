@@ -92,8 +92,10 @@ POST /api/reviews/:bookId – Add review (protected)
 GET /api/reviews/book/:bookId – Get reviews for a book
 
 🧪 Sample Credentials (for testing)
+```
 Email: test@example.com
 Password: 123456
+```
 🙌 Credits
 Built with love by Piyush
 MCA | Web Developer | MERN Stack Enthusiast
